@@ -49,6 +49,9 @@ h3{
     left: 300px;
     bottom: 300px;
 }
+.mountain{
+    align-items: center;
+}
 
 /*   PART 2  */
 .intro{
